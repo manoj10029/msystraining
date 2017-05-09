@@ -1,0 +1,17 @@
+You have created a MariaDB/MySQL database named “capmprof_msystraining_beta
+User “capmprof_msysusr” was added to the database “capmprof_msystraining_beta”.
+
+User: capmprof_msysusr
+Database: capmprof_msystraining_beta
+
+
+wp
+admin
+admin#2017
+Msystraining DB
+msysusr
+msysusr#2017
+
+
+
+
